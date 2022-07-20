@@ -3,7 +3,7 @@
 
 ## Click for detail 
 
-<details><summary>CLICK ME</summary>
+<details><summary>How to print text in Python? Think it before revealing the answer please!</summary>
 <p>
 
 #### Try the following line in Python!
